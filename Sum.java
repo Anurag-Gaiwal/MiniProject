@@ -3,6 +3,7 @@ public class Sum {
         int a = 10;
         int b = 15;
         System.out.println("Sum of a and b is: " + (a + b));
+        System.out.println("Multiplication is :" + (a*b));
 
     }
 
